@@ -1,1 +1,1 @@
-A script that displays a confused smiley (Ôo)
+A script that counts the number of directories and sub-directories in the current directory.

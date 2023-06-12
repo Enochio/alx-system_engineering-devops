@@ -1,1 +1,1 @@
-Script that prints the absolute path name of the current working directory.
+script that counts the number of directories and sub-directories in the current directory.
