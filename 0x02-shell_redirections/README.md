@@ -1,1 +1,1 @@
-A script to display the content of the /etc/passwd file.
+ A script that display the content of /etc/passwd and /etc/hosts
