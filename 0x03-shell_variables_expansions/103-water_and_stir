@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$((10#$WATER + 10#$STIR)) echo "Result in base bestchol: $result"
+echo "Result in base bestchol: $result"
