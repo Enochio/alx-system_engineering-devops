@@ -1,1 +1,1 @@
-A shell script that lists all local variables and environment variables, and functions.
+A shell script that creates a new local variable.
