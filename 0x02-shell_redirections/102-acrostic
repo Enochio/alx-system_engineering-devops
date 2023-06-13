@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 file.txt | paste -sd ''
+cut -c1 | tr -d 'n'
