@@ -1,1 +1,1 @@
-A shell script that counts the number of directories in the PATH.
+A shell script that lists environment variables.
