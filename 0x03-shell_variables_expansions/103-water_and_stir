@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Result in base bestchol: $result"
+result=$(( $(echo "${WATER}" | tr '[:lower:]' '[:upper:]') + $(echo "${STIR}" | tr '[:lower:]' '[:upper:]') ))
+echo "Result in base bestchol: ${result}"
